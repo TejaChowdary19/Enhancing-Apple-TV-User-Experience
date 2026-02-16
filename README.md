@@ -1,6 +1,4 @@
-# Enhancing-Apple-TV-User-Experience
-
-# 🍎 Enhancing Apple TV+ User Experience
+# Enhancing Apple TV+ User Experience
 
 > A research-driven UX redesign focused on improving discoverability, personalization, subscription clarity, and family safety on Apple TV+.
 
